@@ -1,6 +1,7 @@
-# latihan_card_v2_recom_inisiated
+# App Card
 
-A new Flutter project.
+## View App
+![image](https://user-images.githubusercontent.com/67889757/98374578-74edc700-2073-11eb-81ee-13e1595cf7d8.png)
 
 ## Getting Started
 
